@@ -1,3 +1,7 @@
+Olá visitante,
+
+Meu nome é Bel, sou uma granduanda em Ciência da Computação 🤓 e me envolvo em tudo relacionado à Informática em geral, até as ferramentas de escritório não escapam. Atualmente, tenho 18 anos, e venho me dedicando à linguagem Java. O meu maior desafio é saber que o dia só tem 24 horas.
+
 Studying Java!
 <h3>Languages</h3>
   <div>
