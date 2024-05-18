@@ -1,4 +1,4 @@
-Studying Java!
+there's so much to learn about yourself. <br>Studying Java!
 <h3>Languages</h3>
   <div>
    <img height= "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
