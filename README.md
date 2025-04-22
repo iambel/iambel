@@ -13,6 +13,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div> <br><br>
+<div align="center">
+  <strong>Languages</strong><br>
+ < PT-BR, EN >
+</div><br>
  <div align="center">
    <p>
      <strong>Philippians 4:7 — kjv</strong>
