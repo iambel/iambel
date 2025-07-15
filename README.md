@@ -1,21 +1,21 @@
 <div align="center">
-  <strong>Languages</strong><br>
- < PT-BR, EN >
-</div><br>
-   <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" width="50" alt="spring logo"  />
-</div> <br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50"alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" width="50" alt="nextjs logo"  />
-</div><br>
-<div align="center">
-  <a href="https://open.spotify.com/user/31km2ahna4544gedi2yrknffh33e">
+
+![Alt Text](https://media1.tenor.com/m/KVkHHPo5iAcAAAAC/soot-sprite-studio-ghibli.gif)
+
+<h4>Computer Science student interested in Web Development and Data Science 😳</h4>
+
+got a question or a suggestion? feel free to open an issue [here](https://github.com/iambel/iambel/issues)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+
+i'm listening to
+
+ <a href="https://open.spotify.com/user/31km2ahna4544gedi2yrknffh33e">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31km2ahna4544gedi2yrknffh33e&count=1&unique=true" alt="Spotify recently played"  />
   </a>
+
 </div>
