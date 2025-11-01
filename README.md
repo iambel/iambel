@@ -1,21 +1,10 @@
-<div align="center">
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat-square)](https://discordapp.com/users/1034560917448429578)
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat-square)](https://stackoverflow.com/users/22278059/zbel)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/iambel/)
+![Profile views](https://komarev.com/ghpvc/?username=iambel&label=views&color=0e75b6&style=square)
 
-![Alt Text](https://media1.tenor.com/m/KVkHHPo5iAcAAAAC/soot-sprite-studio-ghibli.gif)
+### Computer Science student interested in Web Development <img src="https://media.tenor.com/gKBAgxzAE4kAAAAj/pepe-pepe-shy.gif" width="30">
 
-<h4>Computer Science student interested in Web Development and Data Science 😳</h4>
+---
 
 got a question or a suggestion? feel free to open an issue [here](https://github.com/iambel/iambel/issues)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-
-i'm listening to
-
- <a href="https://open.spotify.com/user/31km2ahna4544gedi2yrknffh33e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31km2ahna4544gedi2yrknffh33e&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-
-</div>
